@@ -266,6 +266,14 @@
   top: 885px;
   object-fit: cover;
 }
+.stocksy-txp-226-f-62-b-2-a-ne-300-medium-4582193-3{
+  height: 166px;
+  position: absolute;
+  right: 1020px;
+  left: 690px;
+  top: 885px;
+  object-fit: cover;
+}
 .szervezet-hivatalos-neve-mathi-sz-j-nos-alap-tv-ny-balatonbogl-r-szervezet-ad-sz-ma-18767218-1-14-a-szervezet-c-me-8630-balatonbogl-r-szabads-g-utca-41 {
   color: #000000;
   text-align: left;
@@ -294,14 +302,15 @@
 .button {
   background: #426b1f;
   border-radius: 8px;
-  padding: 19px 32px 19px 32px;
+  padding: 25px 25px 25px 25px;
   width: 227px;
   height: 64px;
   position: absolute;
-  left: calc(50% - 563.5px);
-  top: 1439px;
+  left: 240px;
+  top: 1400px;
   overflow: hidden;
 }
+/*
 .olvass-tov-bb {
   color: #000000;
   text-align: left;
@@ -319,12 +328,12 @@
 .button2 {
   background: #426b1f;
   border-radius: 8px;
-  padding: 19px 32px 19px 32px;
+  padding: 25px 25px 25px 45px;
   width: 227px;
   height: 64px;
   position: absolute;
-  left: calc(50% - -352.5px);
-  top: 1439px;
+  left: 1130px;
+  top: 1200px;
   overflow: hidden;
 }
 .olvass-tov-bb2 {
@@ -344,13 +353,42 @@
 .button3 {
   background: #426b1f;
   border-radius: 8px;
-  padding: 25px 32px 19px 32px;
+  padding: 25px 25px 25px 45px;
   width: 227px;
   height: 64px;
   position: absolute;
-  left: calc(50% - 108.5px);
-  top: 1439px;
+  left: 1130px;
+  top: 1400px;
   overflow: hidden;
+}
+*/
+
+.gomb{
+  text-align: center;
+  border-radius: 10%;
+  padding: 25px 25px 25px 35px;
+  font-family: "Newsreader-Regular", sans-serif;
+  background: #426b1f;
+  position: absolute;
+}
+
+.button1{
+  width: 227px;
+  height: 64px;
+  left: 240px;
+  top: 1400px;
+}
+.button2{
+  width: 227px;
+  height: 64px;
+  left: 670px;
+  top: 1400px;
+}
+.button3{
+  width: 227px;
+  height: 64px;
+  left: 1125px;
+  top: 1400px;
 }
 .frame-1 {
   background: #ffffff;
