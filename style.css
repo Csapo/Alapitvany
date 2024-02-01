@@ -1,0 +1,396 @@
+.frame-2,
+.frame-2 * {
+  box-sizing: border-box;
+}
+.frame-2 {
+  background: #ffffff;
+  height: 2351px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-9 {
+  background: rgba(66, 107, 31, 0.53);
+  width: 1332px;
+  height: 600px;
+  position: absolute;
+  left: 148px;
+  top: 1628px;
+}
+.h-rek {
+  color: #000000;
+  text-align: center;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  right: 254px;
+  left: 293px;
+  top: 753px;
+}
+.gal-ria {
+  color: #000000;
+  text-align: center;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  right: 243px;
+  left: 304px;
+  top: 2274px;
+}
+.ad-1 {
+  color: #000000;
+  text-align: center;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  right: 276px;
+  left: 271px;
+  top: 1654px;
+}
+.ha-m-g-nem-tette-meg-rendelkezzen-ad-ja-1-r-l-aj-nlja-fel-a-mathi-sz-j-nos-alap-tv-nynak-az-alap-tv-ny-vtizedek-ta-t-mogatja-tanulm-nyutak-kir-ndul-sok-szervez-s-t-a-tehets-ges-tanul-k-tanulm-nyi-s-sportversenyeken-val-r-szv-tel-t-el-seg-ti-a-h-tr-nyos-helyzet-tanul-k-integr-ci-j-t-egy-tt-nevel-s-t-h-tr-nykompenz-ci-j-t-a-di-k-let-sz-nes-t-s-hez-az-iskolai-rendezv-nyek-min-l-magasabb-sz-nvonal-megval-s-t-s-t {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 435px;
+  top: 1773px;
+  width: 822px;
+  height: 305px;
+}
+.ha-m-g-nem-tette-meg-rendelkezzen-ad-ja-1-r-l-aj-nlja-fel-a-mathi-sz-j-nos-alap-tv-nynak-az-alap-tv-ny-vtizedek-ta-t-mogatja-tanulm-nyutak-kir-ndul-sok-szervez-s-t-a-tehets-ges-tanul-k-tanulm-nyi-s-sportversenyeken-val-r-szv-tel-t-el-seg-ti-a-h-tr-nyos-helyzet-tanul-k-integr-ci-j-t-egy-tt-nevel-s-t-h-tr-nykompenz-ci-j-t-a-di-k-let-sz-nes-t-s-hez-az-iskolai-rendezv-nyek-min-l-magasabb-sz-nvonal-megval-s-t-s-t-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.ha-m-g-nem-tette-meg-rendelkezzen-ad-ja-1-r-l-aj-nlja-fel-a-mathi-sz-j-nos-alap-tv-nynak-az-alap-tv-ny-vtizedek-ta-t-mogatja-tanulm-nyutak-kir-ndul-sok-szervez-s-t-a-tehets-ges-tanul-k-tanulm-nyi-s-sportversenyeken-val-r-szv-tel-t-el-seg-ti-a-h-tr-nyos-helyzet-tanul-k-integr-ci-j-t-egy-tt-nevel-s-t-h-tr-nykompenz-ci-j-t-a-di-k-let-sz-nes-t-s-hez-az-iskolai-rendezv-nyek-min-l-magasabb-sz-nvonal-megval-s-t-s-t-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.header {
+  height: 112px;
+  position: absolute;
+  right: 122px;
+  left: 5px;
+  top: 57px;
+  overflow: hidden;
+}
+.mathiasz-alap-tv-ny {
+  color: #426b1f;
+  text-align: left;
+  font-family: "Newsreader-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 100%;
+  font-weight: 500;
+  position: absolute;
+  left: 136px;
+  top: 45px;
+}
+.r-lunk {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 433px;
+  top: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.partnereink {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 16px;
+  top: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.kapcsolat {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 125px;
+  top: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.h-rek2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 372px;
+  top: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ad-12 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 295px;
+  top: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gal-ria2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 221px;
+  top: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stocksy-txp-226-f-62-b-2-a-ne-300-medium-4582193-1 {
+  height: 166px;
+  position: absolute;
+  right: 1015px;
+  left: 169px;
+  top: 885px;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-placerat-eros-arcu-ut-pharetra-mi-sagittis-sit-amet-ut-erat-leo-finibus-nec-faucibus-consequat-pharetra-sit-amet-orci-donec-pretium-neque-vel-suscipit-porttitor-velit-ligula-efficitur-sem-nec-mattis-magna-sem-vitae-metus-morbi-nec-sapien-nec-ligula-imperdiet-pulvinar-vivamus-sed-fermentum-neque-etiam-molestie-ligula-malesuada-felis-malesuada-rutrum-vivamus-accumsan-ac-nunc-a-tempus-vivamus-at-semper-quam-ut-ut-magna-mauris-morbi-eleifend-est-non-accumsan-scelerisque-fusce-dictum-nisi-eget-tellus-euismod-auctor-integer-augue-tellus-dapibus-volutpat-augue-sit-amet-dignissim-blandit-lorem {
+  color: #000000;
+  text-align: left;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 197px;
+  top: 1071px;
+  width: 326px;
+  height: 368px;
+}
+.rectangle-7 {
+  background: rgba(66, 107, 31, 0.36);
+  width: 424px;
+  height: 676px;
+  position: absolute;
+  left: 1033px;
+  top: 838px;
+}
+.stocksy-txp-226-f-62-b-2-a-ne-300-medium-4582193-4 {
+  height: 166px;
+  position: absolute;
+  right: 126px;
+  left: 1058px;
+  top: 885px;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-placerat-eros-arcu-ut-pharetra-mi-sagittis-sit-amet-ut-erat-leo-finibus-nec-faucibus-consequat-pharetra-sit-amet-orci-donec-pretium-neque-vel-suscipit-porttitor-velit-ligula-efficitur-sem-nec-mattis-magna-sem-vitae-metus-morbi-nec-sapien-nec-ligula-imperdiet-pulvinar-vivamus-sed-fermentum-neque-etiam-molestie-ligula-malesuada-felis-malesuada-rutrum-vivamus-accumsan-ac-nunc-a-tempus-vivamus-at-semper-quam-ut-ut-magna-mauris-morbi-eleifend-est-non-accumsan-scelerisque-fusce-dictum-nisi-eget-tellus-euismod-auctor-integer-augue-tellus-dapibus-volutpat-augue-sit-amet-dignissim-blandit-lorem2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 1087px;
+  top: 1071px;
+  width: 326px;
+  height: 368px;
+}
+.rectangle-5 {
+  background: rgba(66, 107, 31, 0.36);
+  width: 424px;
+  height: 676px;
+  position: absolute;
+  left: 588px;
+  top: 838px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-placerat-eros-arcu-ut-pharetra-mi-sagittis-sit-amet-ut-erat-leo-finibus-nec-faucibus-consequat-pharetra-sit-amet-orci-donec-pretium-neque-vel-suscipit-porttitor-velit-ligula-efficitur-sem-nec-mattis-magna-sem-vitae-metus-morbi-nec-sapien-nec-ligula-imperdiet-pulvinar-vivamus-sed-fermentum-neque-etiam-molestie-ligula-malesuada-felis-malesuada-rutrum-vivamus-accumsan-ac-nunc-a-tempus-vivamus-at-semper-quam-ut-ut-magna-mauris-morbi-eleifend-est-non-accumsan-scelerisque-fusce-dictum-nisi-eget-tellus-euismod-auctor-integer-augue-tellus-dapibus-volutpat-augue-sit-amet-dignissim-blandit-lorem3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 640px;
+  top: 1071px;
+  width: 326px;
+  height: 368px;
+}
+.rectangle-3 {
+  background: rgba(66, 107, 31, 0.33);
+  width: 424px;
+  height: 676px;
+  position: absolute;
+  left: 143px;
+  top: 838px;
+}
+.stocksy-txp-226-f-62-b-2-a-ne-300-medium-4582193-2 {
+  height: 166px;
+  position: absolute;
+  right: 1020px;
+  left: 164px;
+  top: 885px;
+  object-fit: cover;
+}
+.szervezet-hivatalos-neve-mathi-sz-j-nos-alap-tv-ny-balatonbogl-r-szervezet-ad-sz-ma-18767218-1-14-a-szervezet-c-me-8630-balatonbogl-r-szabads-g-utca-41 {
+  color: #000000;
+  text-align: left;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 499px;
+  top: 2091px;
+  width: 570px;
+  height: 125px;
+}
+.szervezet-hivatalos-neve-mathi-sz-j-nos-alap-tv-ny-balatonbogl-r-szervezet-ad-sz-ma-18767218-1-14-a-szervezet-c-me-8630-balatonbogl-r-szabads-g-utca-41-span {
+  color: #000000;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.szervezet-hivatalos-neve-mathi-sz-j-nos-alap-tv-ny-balatonbogl-r-szervezet-ad-sz-ma-18767218-1-14-a-szervezet-c-me-8630-balatonbogl-r-szabads-g-utca-41-span2 {
+  color: #000000;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.button {
+  background: #426b1f;
+  border-radius: 8px;
+  padding: 19px 32px 19px 32px;
+  width: 227px;
+  height: 64px;
+  position: absolute;
+  left: calc(50% - 563.5px);
+  top: 1439px;
+  overflow: hidden;
+}
+.olvass-tov-bb {
+  color: #000000;
+  text-align: left;
+  font-family: "Newsreader-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 61.5px);
+  top: calc(50% - 13px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button2 {
+  background: #426b1f;
+  border-radius: 8px;
+  padding: 19px 32px 19px 32px;
+  width: 227px;
+  height: 64px;
+  position: absolute;
+  left: calc(50% - -352.5px);
+  top: 1439px;
+  overflow: hidden;
+}
+.olvass-tov-bb2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Newsreader-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 60.5px);
+  top: calc(50% - 13px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button3 {
+  background: #426b1f;
+  border-radius: 8px;
+  padding: 25px 32px 19px 32px;
+  width: 227px;
+  height: 64px;
+  position: absolute;
+  left: calc(50% - 108.5px);
+  top: 1439px;
+  overflow: hidden;
+}
+.frame-1 {
+  background: #ffffff;
+  width: 1441px;
+  height: 545px;
+  position: absolute;
+  left: 0px;
+  top: 169px;
+  overflow: hidden;
+}
+.mathi-sz-alap-tv-ny {
+  color: #000000;
+  text-align: center;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  right: 211px;
+  left: 210px;
+  top: 19px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-placerat-eros-arcu-ut-pharetra-mi-sagittis-sit-amet-ut-erat-leo-finibus-nec-faucibus-consequat-pharetra-sit-amet-orci-donec-pretium-neque-vel-suscipit-porttitor-velit-ligula-efficitur-sem-nec-mattis-magna-sem-vitae-metus-morbi-nec-sapien-nec-ligula-imperdiet-pulvinar-vivamus-sed-fermentum-neque-etiam-molestie-ligula-malesuada-felis-malesuada-rutrum-vivamus-accumsan-ac-nunc-a-tempus-vivamus-at-semper-quam-ut-ut-magna-mauris-morbi-eleifend-est-non-accumsan-scelerisque-fusce-dictum-nisi-eget-tellus-euismod-auctor-integer-augue-tellus-dapibus-volutpat-augue-sit-amet-dignissim-blandit-lorem4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Newsreader-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 160px;
+  top: 110px;
+  width: 488px;
+  height: 370px;
+}
+.jonathan-kemper-1-h-hrd-io-l-fp-u-unsplash-2 {
+  border-radius: 100px;
+  height: 384px;
+  position: absolute;
+  right: 118px;
+  left: 971px;
+  top: 96px;
+  object-fit: cover;
+}
