@@ -11,7 +11,7 @@
 .rectangle-9 {
   background: rgba(66, 107, 31, 0.53);
   width: 1332px;
-  height: 600px;
+  height: 650px;
   position: absolute;
   left: 148px;
   top: 1628px;
@@ -24,8 +24,8 @@
   line-height: 120%;
   font-weight: 400;
   position: absolute;
-  right: 254px;
-  left: 293px;
+
+  left: 740px;
   top: 753px;
 }
 .gal-ria {
@@ -36,9 +36,9 @@
   line-height: 120%;
   font-weight: 400;
   position: absolute;
-  right: 243px;
-  left: 304px;
-  top: 2274px;
+
+  left: 700px;
+  top: 2290px;
 }
 .ad-1 {
   color: #000000;
@@ -48,8 +48,8 @@
   line-height: 120%;
   font-weight: 400;
   position: absolute;
-  right: 276px;
-  left: 271px;
+
+  left: 700px;
   top: 1654px;
 }
 .ha-m-g-nem-tette-meg-rendelkezzen-ad-ja-1-r-l-aj-nlja-fel-a-mathi-sz-j-nos-alap-tv-nynak-az-alap-tv-ny-vtizedek-ta-t-mogatja-tanulm-nyutak-kir-ndul-sok-szervez-s-t-a-tehets-ges-tanul-k-tanulm-nyi-s-sportversenyeken-val-r-szv-tel-t-el-seg-ti-a-h-tr-nyos-helyzet-tanul-k-integr-ci-j-t-egy-tt-nevel-s-t-h-tr-nykompenz-ci-j-t-a-di-k-let-sz-nes-t-s-hez-az-iskolai-rendezv-nyek-min-l-magasabb-sz-nvonal-megval-s-t-s-t {
@@ -95,9 +95,10 @@
   line-height: 100%;
   font-weight: 500;
   position: absolute;
-  left: 136px;
-  top: 45px;
+  left: 150px;
+  top: 105px;
 }
+
 .r-lunk {
   color: #000000;
   text-align: center;
@@ -205,17 +206,18 @@
 .rectangle-7 {
   background: rgba(66, 107, 31, 0.36);
   width: 424px;
-  height: 676px;
+  height: 750px;
   position: absolute;
   left: 1033px;
   top: 838px;
 }
 .stocksy-txp-226-f-62-b-2-a-ne-300-medium-4582193-4 {
-  height: 166px;
+  height: 20%;
+  width: 20%;
   position: absolute;
   right: 126px;
-  left: 1058px;
-  top: 885px;
+  left: 1053px;
+  top: 865px;
   object-fit: cover;
 }
 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-placerat-eros-arcu-ut-pharetra-mi-sagittis-sit-amet-ut-erat-leo-finibus-nec-faucibus-consequat-pharetra-sit-amet-orci-donec-pretium-neque-vel-suscipit-porttitor-velit-ligula-efficitur-sem-nec-mattis-magna-sem-vitae-metus-morbi-nec-sapien-nec-ligula-imperdiet-pulvinar-vivamus-sed-fermentum-neque-etiam-molestie-ligula-malesuada-felis-malesuada-rutrum-vivamus-accumsan-ac-nunc-a-tempus-vivamus-at-semper-quam-ut-ut-magna-mauris-morbi-eleifend-est-non-accumsan-scelerisque-fusce-dictum-nisi-eget-tellus-euismod-auctor-integer-augue-tellus-dapibus-volutpat-augue-sit-amet-dignissim-blandit-lorem2 {
@@ -233,7 +235,7 @@
 .rectangle-5 {
   background: rgba(66, 107, 31, 0.36);
   width: 424px;
-  height: 676px;
+  height: 750px;
   position: absolute;
   left: 588px;
   top: 838px;
@@ -253,25 +255,27 @@
 .rectangle-3 {
   background: rgba(66, 107, 31, 0.33);
   width: 424px;
-  height: 676px;
+  height: 750px;
   position: absolute;
   left: 143px;
   top: 838px;
 }
 .stocksy-txp-226-f-62-b-2-a-ne-300-medium-4582193-2 {
-  height: 166px;
+  height: 20%;
+  width: 20%;
   position: absolute;
   right: 1020px;
-  left: 164px;
-  top: 885px;
+  left: 165px;
+  top: 865px;
   object-fit: cover;
 }
 .stocksy-txp-226-f-62-b-2-a-ne-300-medium-4582193-3{
-  height: 166px;
+  height: 20%;
+  width: 20%;
   position: absolute;
   right: 1020px;
-  left: 690px;
-  top: 885px;
+  left: 610px;
+  top: 865px;
   object-fit: cover;
 }
 .szervezet-hivatalos-neve-mathi-sz-j-nos-alap-tv-ny-balatonbogl-r-szervezet-ad-sz-ma-18767218-1-14-a-szervezet-c-me-8630-balatonbogl-r-szabads-g-utca-41 {
@@ -376,19 +380,19 @@
   width: 227px;
   height: 64px;
   left: 240px;
-  top: 1400px;
+  top: 1500px;
 }
 .button2{
   width: 227px;
   height: 64px;
   left: 670px;
-  top: 1400px;
+  top: 1500px;
 }
 .button3{
   width: 227px;
   height: 64px;
   left: 1125px;
-  top: 1400px;
+  top: 1500px;
 }
 .frame-1 {
   background: #ffffff;
@@ -421,7 +425,7 @@
   left: 160px;
   top: 110px;
   width: 488px;
-  height: 370px;
+  height: 500px;
 }
 .jonathan-kemper-1-h-hrd-io-l-fp-u-unsplash-2 {
   border-radius: 100px;
@@ -431,4 +435,17 @@
   left: 971px;
   top: 96px;
   object-fit: cover;
+}
+
+.ck{
+  width: 25%;
+  height: 25%;
+}
+
+.korhinta{
+  width: 71%;
+
+  position: absolute;
+  left: 7.5%;
+  top: 2400px;
 }
